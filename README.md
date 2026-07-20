@@ -1,15 +1,9 @@
 <p align="center">
-  <img src="assets/sdaia-logo.png" alt="SDAIA Logo" width="220">
+  <img src="sdaiaa.png" alt="SDAIA Logo" width="220">
 </p>
 
 <h1 align="center">تطوير حلول الذكاء الاصطناعي التوليدي</h1>
 
-<p align="center">
-  <strong>SDAIA Training Program</strong><br>
-  5-Day Instructor-Led Course
-</p>
-
-# تطوير حلول الذكاء الاصطناعي التول
 
  This repository contains the learning materials for a **5-day hands-on training program** focused on designing, building, and evaluating Generative AI applications.
 
