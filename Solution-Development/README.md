@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="sdaiaa.png" alt="SDAIA Logo" width="220">
+  <img src="sdaia.png" alt="SDAIA Logo" width="220">
 </p>
 
 <h1 align="center">تطوير حلول الذكاء الاصطناعي التوليدي</h1>
