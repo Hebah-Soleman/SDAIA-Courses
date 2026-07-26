@@ -28,7 +28,7 @@ Before attending **Day 1**, we assume you already have:
 
 ---
 
-## Day 1 — Generative AI Fundamentals
+# Day 1 — Generative AI Fundamentals
 
 ### Session 1 — Generative AI Fundamentals
 
@@ -39,6 +39,20 @@ Before attending **Day 1**, we assume you already have:
 
 - 📖 **Slides:** [API & Provider Landscape](https://naifmersal.github.io/SDAIA-Building-Gen-AI-Apps/architecture_fundamentals/slides/api_and_provider_landscape.html#/title-slide)
 - 💻 **Lab:** [API Client Lab](https://github.com/NaifMersal/SDAIA-Building-Gen-AI-Apps/blob/master/architecture_fundamentals/labs/api_client.ipynb)
+
+# Day 2 — Structured Outputs & RAG Foundations
+
+## Session 1 — Structured Outputs & Tool Calling
+
+- 📖 **Slides:** [Structured Outputs & Tool Calling](https://naifmersal.github.io/SDAIA-Building-Gen-AI-Apps/function_calling_tools/slides/structured_outputs_and_tool_use.html#/a.-the-problem-free-text-is-unparseable)
+- 💻 **Lab:** [Tool Calling Lab](https://github.com/NaifMersal/SDAIA-Building-Gen-AI-Apps/blob/master/function_calling_tools/labs/tool_calling.ipynb)
+
+## Session 2 — RAG Architecture & Foundations
+
+- 📖 **Slides:** [RAG Architecture & Foundations](https://naifmersal.github.io/SDAIA-Building-Gen-AI-Apps/rag_foundations_data_pipelines/slides/rag_architecture_foundations.html#/title-slide)
+- 💻 **Lab:** [Ingestion Pipeline Lab](https://github.com/NaifMersal/SDAIA-Building-Gen-AI-Apps/blob/master/rag_foundations_data_pipelines/labs/ingestion_pipeline.ipynb)
+
+---
 
 ---
 
