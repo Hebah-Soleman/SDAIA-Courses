@@ -1,14 +1,3 @@
-"""
-Autograder for the standalone Lab 2 practice exercises
-(exercises_from_chunks_to_vectors.ipynb).
-
-These are NEW problems that build on the same concepts as the main lab
-(chunking, chunk analysis, cost estimation, retrieval metrics) but are not
-the same TODOs as the walkthrough notebook.
-
-Import as: from tests import exercise_checks
-"""
-
 import math
 
 
