@@ -53,6 +53,20 @@ Before attending **Day 1**, we assume you already have:
 - 💻 **Lab:** [Ingestion Pipeline Lab](https://github.com/NaifMersal/SDAIA-Building-Gen-AI-Apps/blob/master/rag_foundations_data_pipelines/labs/ingestion_pipeline.ipynb)
 
 ---
+# Day 3 — Building Better RAG Systems
+
+## Session 1 — Chunking Strategies
+
+- 📖 **Slides:** [Chunking Strategies](https://naifmersal.github.io/SDAIA-Building-Gen-AI-Apps/rag_foundations_data_pipelines/slides/chunking_strategies.html#/title-slide)
+- 💻 **Lab:** [Embedding Pipeline Lab](https://github.com/NaifMersal/SDAIA-Building-Gen-AI-Apps/blob/master/rag_foundations_data_pipelines/labs/embedding_pipeline.ipynb)
+
+## Session 2 — Measuring Retrieval Quality
+
+- 📖 **Slides:** [Measuring Retrieval Quality](https://naifmersal.github.io/SDAIA-Building-Gen-AI-Apps/rag_foundations_data_pipelines/slides/rag_evaluation.html#/title-slide)
+- 💻 **Lab:** [RAG Evaluation Lab](https://github.com/NaifMersal/SDAIA-Building-Gen-AI-Apps/blob/master/rag_foundations_data_pipelines/labs/rag_evaluation.ipynb)
+
+---
+
 
 ---
 
