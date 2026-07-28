@@ -59,7 +59,7 @@ Before attending **Day 1**, we assume you already have:
 
 - 📖 **Slides:** [Chunking Strategies](https://naifmersal.github.io/SDAIA-Building-Gen-AI-Apps/rag_foundations_data_pipelines/slides/chunking_strategies.html#/title-slide)
 - 💻 **Lab:** [Embedding Pipeline Lab](https://github.com/NaifMersal/SDAIA-Building-Gen-AI-Apps/blob/master/rag_foundations_data_pipelines/labs/embedding_pipeline.ipynb)
-
+- **Exercise:** [Exercise](https://github.com/Hebah-Soleman/SDAIA-Courses/blob/main/Solution-Development/embedding_pipeline_Ex.ipynb)
 ## Session 2 — Measuring Retrieval Quality
 
 - 📖 **Slides:** [Measuring Retrieval Quality](https://naifmersal.github.io/SDAIA-Building-Gen-AI-Apps/rag_foundations_data_pipelines/slides/rag_evaluation.html#/title-slide)
