@@ -64,7 +64,7 @@ Before attending **Day 1**, we assume you already have:
 
 - 📖 **Slides:** [Measuring Retrieval Quality](https://naifmersal.github.io/SDAIA-Building-Gen-AI-Apps/rag_foundations_data_pipelines/slides/rag_evaluation.html#/title-slide)
 - 💻 **Lab:** [RAG Evaluation Lab](https://github.com/NaifMersal/SDAIA-Building-Gen-AI-Apps/blob/master/rag_foundations_data_pipelines/labs/rag_evaluation.ipynb)
-
+- **Exercise:** [Exercise](https://github.com/Hebah-Soleman/SDAIA-Courses/blob/main/Solution-Development/rag_evaluation_exercises.ipynb)
 ---
 
 
