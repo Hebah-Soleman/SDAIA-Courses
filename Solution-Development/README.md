@@ -73,6 +73,7 @@ Before attending **Day 1**, we assume you already have:
 
 - 📖 **Slides:** [Vector Storage & Retrieval](https://naifmersal.github.io/SDAIA-Building-Gen-AI-Apps/rag_foundations_data_pipelines/slides/vector_storage_retrieval.html#/title-slide)
 - 💻 **Lab:** [RAG Service Lab](https://github.com/NaifMersal/SDAIA-Building-Gen-AI-Apps/blob/master/rag_foundations_data_pipelines/labs/rag_service.ipynb)
+- **Exercise** [Exercise](https://github.com/Hebah-Soleman/SDAIA-Courses/blob/main/Solution-Development/exercises_rag_serviceipynb.ipynb)
 - **Review** 
 
 ---
