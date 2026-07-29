@@ -76,6 +76,9 @@ Before attending **Day 1**, we assume you already have:
 - **Exercise** [Exercise](https://github.com/Hebah-Soleman/SDAIA-Courses/blob/main/Solution-Development/exercises_rag_serviceipynb.ipynb)
 - **Extra** [Arabic text preprocessing](https://github.com/Hebah-Soleman/SDAIA-Courses/blob/main/Solution-Development/arabic_rag_preprocessing.ipynb)
 - **Review** 
+## Project Kickoff
+
+-  **Project Repository:** [Capstone Project](https://github.com/NaifMersal/SDAIA-Building-Gen-AI-Apps/tree/project)
 
 ---
 
