@@ -1,0 +1,99 @@
+TITLE: RAG Fundamentals
+SECTION: introduction
+Retrieval-Augmented Generation (RAG) combines a retriever with a generative language model so that responses are grounded in external knowledge rather than only the model's parameters. This reduces hallucinations and allows the system to cite its sources.
+---
+TITLE: RAG vs Fine-tuning
+SECTION: comparison
+Fine-tuning updates a model's weights through additional training on new data, while RAG keeps the base model frozen and supplies knowledge at query time through retrieval. RAG is typically cheaper to update and better suited to fast-changing information.
+---
+TITLE: Naive vs Advanced RAG
+SECTION: architecture
+Naive RAG follows a simple retrieve-then-generate pipeline. Advanced RAG adds pre-retrieval steps like query rewriting and post-retrieval steps like re-ranking and compression to improve the quality of the context passed to the generator.
+---
+TITLE: Modular RAG
+SECTION: architecture
+Modular RAG breaks the pipeline into interchangeable modules such as routing, retrieval, re-ranking, and fusion, allowing engineers to swap components independently rather than treating the pipeline as one monolithic block.
+---
+TITLE: Transformer Architecture
+SECTION: fundamentals
+The transformer architecture relies on self-attention to relate every token in a sequence to every other token in parallel, which enables the massive parallelization during training that made large language models practical.
+---
+TITLE: Text Embeddings
+SECTION: fundamentals
+An embedding model maps a piece of text to a dense vector of real numbers such that semantically similar pieces of text end up close together in vector space. These vectors are the foundation of semantic search.
+---
+TITLE: Vector Databases
+SECTION: infrastructure
+A vector database stores embeddings alongside their source text and metadata, and provides efficient approximate nearest neighbor search so that a query vector can be matched against millions of stored vectors in milliseconds.
+---
+TITLE: HNSW Indexing
+SECTION: algorithm
+HNSW, or Hierarchical Navigable Small World, is an approximate nearest neighbor algorithm that organizes vectors into a multi-layered graph, letting searches quickly skip through coarse layers before refining within a dense layer.
+---
+TITLE: Cosine Similarity
+SECTION: metrics
+Cosine similarity measures the angle between two vectors rather than their magnitude, which makes it robust to differences in document length. It is the standard similarity metric used for comparing text embeddings.
+---
+TITLE: Chunking Strategies
+SECTION: preprocessing
+Chunking splits long documents into smaller pieces before embedding. Chunks that are too large dilute the embedding signal, while chunks that are too small lose surrounding context, so the right chunk size depends on the content type.
+---
+TITLE: Chunk Overlap
+SECTION: preprocessing
+Overlapping consecutive chunks by a small window of tokens or sentences helps preserve context that would otherwise be cut off at a chunk boundary, at the cost of some redundant storage.
+---
+TITLE: Cross-Encoder Re-ranking
+SECTION: retrieval
+A cross-encoder takes a query and a candidate document together as a single input and produces a relevance score directly. This is more accurate than comparing separately computed embeddings, but too slow to run over an entire corpus.
+---
+TITLE: Bi-Encoder Retrieval
+SECTION: retrieval
+A bi-encoder embeds the query and each document independently, so document embeddings can be precomputed and stored. Similarity is then just a fast vector comparison, trading some accuracy for large gains in speed.
+---
+TITLE: BM25 Keyword Search
+SECTION: retrieval
+BM25 is a probabilistic ranking function based on term frequency and inverse document frequency. It excels at exact keyword and acronym matching, which dense embeddings can sometimes miss.
+---
+TITLE: Hybrid Search
+SECTION: retrieval
+Hybrid search combines a sparse method like BM25 with dense vector search, then fuses the two ranked lists so the system benefits from both exact keyword matching and semantic similarity.
+---
+TITLE: Query Expansion
+SECTION: retrieval
+Query expansion rewrites or augments a user's query with related terms or an LLM-generated hypothetical answer before retrieval, which can surface relevant documents that don't share vocabulary with the original query.
+---
+TITLE: Contextual Compression
+SECTION: retrieval
+Contextual compression filters or summarizes retrieved chunks down to only the sentences relevant to the query, which shrinks the prompt and reduces the chance that irrelevant text distracts the generator.
+---
+TITLE: Multi-Vector Retrieval
+SECTION: retrieval
+Approaches like ColBERT represent a document as multiple token-level vectors instead of a single vector, then compute a late-interaction similarity score, which can capture finer-grained relevance than a single pooled embedding.
+---
+TITLE: Vector Quantization
+SECTION: scaling
+Vector quantization reduces the memory footprint of an embedding index by storing vectors with lower numerical precision. Scalar quantization can achieve roughly 4x compression with only a small loss in search recall.
+---
+TITLE: RAG Evaluation Metrics
+SECTION: evaluation
+Evaluating a RAG system requires both retrieval metrics, such as Hit Rate and Mean Reciprocal Rank, and generation metrics, such as faithfulness and answer relevancy, since a good retriever paired with a poor generator still produces a bad answer.
+---
+TITLE: Hallucination in LLMs
+SECTION: reliability
+Hallucination occurs when a language model generates text that sounds plausible but is not supported by any source. Grounding generation in retrieved context is one of the main techniques used to reduce hallucination.
+---
+TITLE: Prompt Engineering for RAG
+SECTION: generation
+In a RAG prompt, instructing the model to answer only from the provided context and to cite sources by number both improves faithfulness and makes it easier to verify which retrieved chunk supports each claim.
+---
+TITLE: Context Window Limits
+SECTION: generation
+Every language model has a maximum context window, so a RAG pipeline must be selective about how many retrieved chunks it includes, balancing more supporting evidence against the risk of exceeding the limit or diluting attention.
+---
+TITLE: Agentic RAG
+SECTION: architecture
+Agentic RAG lets the model decide, step by step, whether to retrieve again, which tool or index to query, and when it has enough information to answer, rather than performing a single fixed retrieval pass.
+---
+TITLE: RAG Security and Prompt Injection
+SECTION: reliability
+Because retrieved documents become part of the prompt, malicious text embedded in a document can attempt to override the system's instructions. Production RAG systems need to treat retrieved content as untrusted input.
