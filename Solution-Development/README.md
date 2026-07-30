@@ -81,6 +81,9 @@ Before attending **Day 1**, we assume you already have:
 -  **Project Repository:** [Capstone Project](https://github.com/NaifMersal/SDAIA-Building-Gen-AI-Apps/tree/project)
 
 ---
+# Day 5 — Capstone Project
+- **Project Requirements** [Project Requirements](https://github.com/Hebah-Soleman/SDAIA-Courses/blob/main/Solution-Development/project_requirements.pdf)
+- **Project Starter Repository:** [Capstone Project](https://github.com/NaifMersal/SDAIA-Building-Gen-AI-Apps/tree/project) 
 
 
 
