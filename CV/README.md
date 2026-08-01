@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Solution-Development/sdaia.png" alt="SDAIA Logo" width="220">
+  <img src="https://github.com/Hebah-Soleman/SDAIA-Courses/blob/main/Solution-Development/sdaia.png" alt="SDAIA Logo" width="220">
 </p>
 
 <h1 align="center"> Computer Vision </h1>
