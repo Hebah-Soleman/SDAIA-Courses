@@ -35,3 +35,5 @@
 - 📖 **Slides:** [Computer Vision-p3](https://github.com/Hebah-Soleman/SDAIA-Courses/blob/main/CV/Day3/CV-p3.pdf)
 - 💻 **Lab1_1:** [Lab1_1](https://github.com/Hebah-Soleman/SDAIA-Courses/blob/main/CV/Day3/D3_Lab1_Image_Segmentation_Custom_UNet.ipynb)
 - 💻 **Lab1_2:** [Lab1_2](https://github.com/Hebah-Soleman/SDAIA-Courses/blob/main/CV/Day3/D3_Lab2_Image_Segmentation_SMP_UNet.ipynb)
+- 💻 **Exercise1:** [Exercise1](https://github.com/Hebah-Soleman/SDAIA-Courses/blob/main/CV/Day3/D3_Exercise1.ipynb)
+
