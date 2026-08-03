@@ -20,3 +20,12 @@
 - 💻 **Lab3:** [Lab3](https://github.com/Hebah-Soleman/SDAIA-Courses/blob/main/CV/Day1/Image_Classification_CNN_And_AlexNet_CIFAR10.ipynb)
 - 💻 **Exercise1:** [Exercise1](https://github.com/Hebah-Soleman/SDAIA-Courses/blob/main/CV/Day1/Exercise1.ipynb)
 - 💻 **Exercise2:** [Exercise2](https://github.com/Hebah-Soleman/SDAIA-Courses/blob/main/CV/Day1/Exercise2.ipynb)
+
+# Day 2
+
+---
+
+- 📖 **Slides:** [Computer Vision - p2](https://github.com/Hebah-Soleman/SDAIA-Courses/blob/main/CV/Day2/CV-p2.pdf)
+- 💻 **Lab2:** [Lab1](https://github.com/Hebah-Soleman/SDAIA-Courses/blob/main/CV/Day2/D2_L1_Dataset_Augmentations_Basics.ipynb)
+- 💻 **Lab3:** [Lab2](https://github.com/Hebah-Soleman/SDAIA-Courses/blob/main/CV/Day2/D2_L2_Finetuning_CatsAndDogs.ipynb)
+- 💻 **Exercise1:** [Exercise1](https://github.com/Hebah-Soleman/SDAIA-Courses/blob/main/CV/Day2/D2_Exercise1.ipynb)
