@@ -29,3 +29,4 @@
 - 💻 **Lab2:** [Lab1](https://github.com/Hebah-Soleman/SDAIA-Courses/blob/main/CV/Day2/D2_L1_Dataset_Augmentations_Basics.ipynb)
 - 💻 **Lab3:** [Lab2](https://github.com/Hebah-Soleman/SDAIA-Courses/blob/main/CV/Day2/D2_L2_Finetuning_CatsAndDogs.ipynb)
 - 💻 **Exercise1:** [Exercise1](https://github.com/Hebah-Soleman/SDAIA-Courses/blob/main/CV/Day2/D2_Exercise1.ipynb)
+- 💻 **Exercise2:** [Exercise2](https://github.com/Hebah-Soleman/SDAIA-Courses/blob/main/CV/Day2/D2_Exercise2.ipynb)
