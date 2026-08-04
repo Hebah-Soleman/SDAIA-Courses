@@ -35,5 +35,12 @@
 - 📖 **Slides:** [Computer Vision-p3](https://github.com/Hebah-Soleman/SDAIA-Courses/blob/main/CV/Day3/CV-p3.pdf)
 - 💻 **Lab1_1:** [Lab1_1](https://github.com/Hebah-Soleman/SDAIA-Courses/blob/main/CV/Day3/D3_Lab1_Image_Segmentation_Custom_UNet.ipynb)
 - 💻 **Lab1_2:** [Lab1_2](https://github.com/Hebah-Soleman/SDAIA-Courses/blob/main/CV/Day3/D3_Lab2_Image_Segmentation_SMP_UNet.ipynb)
+- 📖 **Slides:** [Ultralytics YOLO Foundations: Part 1](https://naifmersal.github.io/cv-for-developers-ultralytics/slides/1_Tasks_Inference.html#/title-slide)
+- 💻 **Lab2:** [Lab2](https://github.com/Hebah-Soleman/SDAIA-Courses/blob/main/CV/Day3/Lab2_tasks_inference.ipynb)
+- 📖 **Slides:** [Ultralytics YOLO Foundations: Part 2](https://naifmersal.github.io/cv-for-developers-ultralytics/slides/2_Real_World_Use_Cases.html#/title-slide)
+- 💻 **Lab3:** [Lab3](https://colab.research.google.com/github/NaifMersal/cv-for-developers-ultralytics/blob/main/labs/02_solutions_expanded.ipynb)
+
 - 💻 **Exercise1:** [Exercise1](https://github.com/Hebah-Soleman/SDAIA-Courses/blob/main/CV/Day3/D3_Exercise1.ipynb)
+- 💻 **Exercise2:** [Exercise2](https://github.com/Hebah-Soleman/SDAIA-Courses/blob/main/CV/Day3/D3_Exercise2.ipynb)
+- 💻 **Exercise3:** [Exercise3](https://github.com/Hebah-Soleman/SDAIA-Courses/blob/main/CV/Day3/D3_Exercise3.ipynb)
 
