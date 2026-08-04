@@ -37,8 +37,10 @@
 - 💻 **Lab1_2:** [Lab1_2](https://github.com/Hebah-Soleman/SDAIA-Courses/blob/main/CV/Day3/D3_Lab2_Image_Segmentation_SMP_UNet.ipynb)
 - 📖 **Slides:** [Ultralytics YOLO Foundations: Part 1](https://naifmersal.github.io/cv-for-developers-ultralytics/slides/1_Tasks_Inference.html#/title-slide)
 - 💻 **Lab2:** [Lab2](https://github.com/Hebah-Soleman/SDAIA-Courses/blob/main/CV/Day3/Lab2_tasks_inference.ipynb)
-- 📖 **Slides:** [Ultralytics YOLO Foundations: Part 2](https://naifmersal.github.io/cv-for-developers-ultralytics/slides/2_Real_World_Use_Cases.html#/title-slide)
-- 💻 **Lab3:** [Lab3](https://colab.research.google.com/github/NaifMersal/cv-for-developers-ultralytics/blob/main/labs/02_solutions_expanded.ipynb)
+- 📖 **Slides-p1:** [Ultralytics YOLO Foundations: Part 2A](https://naifmersal.github.io/cv-for-developers-ultralytics/slides/2_Real_World_Use_Cases.html#/title-slide)
+- 💻 **Lab3_1:** [Lab3_1](https://colab.research.google.com/github/NaifMersal/cv-for-developers-ultralytics/blob/main/labs/02_solutions_expanded.ipynb)
+- 📖 **Slides-p2:** [Ultralytics YOLO Foundations: Part 2B](https://naifmersal.github.io/cv-for-developers-ultralytics/slides/2B_Real_World_Video_Engineering.html#/title-slide)
+- 💻 **Lab3_2:** [Lab3_2](https://colab.research.google.com/github/NaifMersal/cv-for-developers-ultralytics/blob/main/labs/02_solutions_expanded.ipynb)
 
 - 💻 **Exercise1:** [Exercise1](https://github.com/Hebah-Soleman/SDAIA-Courses/blob/main/CV/Day3/D3_Exercise1.ipynb)
 - 💻 **Exercise2:** [Exercise2](https://github.com/Hebah-Soleman/SDAIA-Courses/blob/main/CV/Day3/D3_Exercise2.ipynb)
