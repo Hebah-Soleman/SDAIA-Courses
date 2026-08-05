@@ -45,3 +45,13 @@
 - 💻 **Exercise2:** [Exercise2](https://github.com/Hebah-Soleman/SDAIA-Courses/blob/main/CV/Day3/D3_Exercise2.ipynb)
 - 💻 **Exercise3:** [Exercise3](https://github.com/Hebah-Soleman/SDAIA-Courses/blob/main/CV/Day3/D3_Exercise3.ipynb)
 
+---
+# Day4
+
+- 📖 **Slides:** [Model Evaluation](https://naifmersal.github.io/cv-for-developers-ultralytics/slides/3_Evaluation.html#/title-slide)
+- 💻 **Lab1:** [Lab1](https://colab.research.google.com/github/NaifMersal/cv-for-developers-ultralytics/blob/main/labs/04a_roi_evaluation.ipynb)
+
+- 📖 **Slides:** [Custom Data & Training](https://naifmersal.github.io/cv-for-developers-ultralytics/slides/4_Custom_Data_Training.html#/title-slide)
+- 💻 **Lab2_1:** [Lab2_1](https://colab.research.google.com/github/NaifMersal/cv-for-developers-ultralytics/blob/main/labs/03_custom_training.ipynb)
+- 💻 **Lab2_2:** [Lab2_2](https://colab.research.google.com/github/NaifMersal/cv-for-developers-ultralytics/blob/main/labs/04b_evaluation_technical.ipynb#scrollTo=GEx6GAVPiVtu)
+- 💻 **Exercise:** [Exercise](https://github.com/Hebah-Soleman/SDAIA-Courses/blob/main/CV/Day4/Exercise.ipynb)
