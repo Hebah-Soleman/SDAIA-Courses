@@ -55,3 +55,14 @@
 - 💻 **Lab2_1:** [Lab2_1](https://colab.research.google.com/github/NaifMersal/cv-for-developers-ultralytics/blob/main/labs/03_custom_training.ipynb)
 - 💻 **Lab2_2:** [Lab2_2](https://colab.research.google.com/github/NaifMersal/cv-for-developers-ultralytics/blob/main/labs/04b_evaluation_technical.ipynb#scrollTo=GEx6GAVPiVtu)
 - 💻 **Exercise:** [Exercise](https://github.com/Hebah-Soleman/SDAIA-Courses/blob/main/CV/Day4/Exercise.ipynb)
+
+---
+# Day5
+
+- 📖 **Slides:** [HuggingFace for Computer Vision](https://naifmersal.github.io/cv-for-developers-ultralytics/slides/6_HuggingFace_CV.html#/title-slide)
+- 📖 **Slides:** [Deployment](https://naifmersal.github.io/cv-for-developers-ultralytics/slides/6_HuggingFace_CV.html#/title-slide)
+- 💻 **Lab1** [Lab1](https://colab.research.google.com/github/NaifMersal/cv-for-developers-ultralytics/blob/main/labs/05_huggingface_cv.ipynb) 
+
+- 💻 **Post-Test**  
+- 💻 **Final Project**  [Project Requirements](https://github.com/Hebah-Soleman/SDAIA-Courses/blob/main/CV/Day5/Project%20Requirements%20(CV).pdf) 
+
